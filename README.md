@@ -1,4 +1,4 @@
-# Bilingual Bible Quiz (English / 中文)
+# Bible Quiz (English / 中文)
 
 A console Bible quiz for church activities, Bible study groups, Sunday school, youth
 fellowships and personal practice. It runs entirely in the terminal: no website, no GUI,
