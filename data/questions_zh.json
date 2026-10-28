@@ -1,0 +1,1248 @@
+{
+  "format_version": 1,
+  "note": "原创问答题。解释为意译，不是《现代标点和合本》（CUVMPS）的经文引文。如获授权，可在 source_text 中按译本加入经文，例如 {\"CUVMPS\": \"...\"}。",
+  "questions": [
+    {
+      "id": "ZH-001",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "old_testament",
+      "difficulty": "easy",
+      "question": "根据创世记，是谁建造了方舟？",
+      "options": {
+        "A": "亚伯拉罕",
+        "B": "挪亚",
+        "C": "摩西",
+        "D": "大卫"
+      },
+      "correct_answer": "B",
+      "book": "创世记",
+      "chapter_verse": "6:13-22",
+      "explanation": "神吩咐挪亚造方舟，好在洪水中保全他的家人和各样的活物；挪亚都照着神所吩咐的去行。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-002",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "old_testament",
+      "difficulty": "easy",
+      "question": "神在创造的第一日造了什么？",
+      "options": {
+        "A": "光",
+        "B": "日、月、星",
+        "C": "动物",
+        "D": "人"
+      },
+      "correct_answer": "A",
+      "book": "创世记",
+      "chapter_verse": "1:3-5",
+      "explanation": "第一日神造了光，并将光暗分开，称光为昼，称暗为夜。日、月、星是在第四日（创世记 1:14-19）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-003",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "old_testament",
+      "difficulty": "intermediate",
+      "question": "以色列人在进入应许之地以前，在旷野漂流了多少年？",
+      "options": {
+        "A": "7 年",
+        "B": "12 年",
+        "C": "40 年",
+        "D": "70 年"
+      },
+      "correct_answer": "C",
+      "book": "民数记",
+      "chapter_verse": "14:33-34",
+      "explanation": "百姓听了探子的报告后不肯进迦南，神就说他们要在旷野漂流四十年——按窥探那地的四十日，每一日算为一年。",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "ZH-004",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "old_testament",
+      "difficulty": "intermediate",
+      "question": "以色列人绕城七日之后，哪一座城的城墙塌陷了？",
+      "options": {
+        "A": "耶利哥",
+        "B": "艾城",
+        "C": "耶路撒冷",
+        "D": "巴比伦"
+      },
+      "correct_answer": "A",
+      "book": "约书亚记",
+      "chapter_verse": "6:15-20",
+      "explanation": "第七日以色列人绕耶利哥城七次；祭司吹角，百姓大声呼喊，城墙就塌陷了。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-005",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "old_testament",
+      "difficulty": "advanced",
+      "question": "哪一位犹大王在病重时祷告，神就加增了他十五年的寿数？",
+      "options": {
+        "A": "约西亚",
+        "B": "希西家",
+        "C": "乌西雅",
+        "D": "玛拿西"
+      },
+      "correct_answer": "B",
+      "book": "列王纪下",
+      "chapter_verse": "20:1-6",
+      "explanation": "希西家病得要死，就向神祷告；神差先知以赛亚告诉他，要加增他十五年的寿数。以赛亚书第 38 章也记载了这件事。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-006",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "old_testament",
+      "difficulty": "advanced",
+      "question": "神吩咐哪一位先知娶名叫歌篾的妇人？",
+      "options": {
+        "A": "阿摩司",
+        "B": "何西阿",
+        "C": "弥迦",
+        "D": "约珥"
+      },
+      "correct_answer": "B",
+      "book": "何西阿书",
+      "chapter_verse": "1:2-3",
+      "explanation": "何西阿娶了滴拉音的女儿歌篾。经文说这婚姻是表明这地离弃耶和华的不忠（何西阿书 1:2）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-007",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "new_testament",
+      "difficulty": "easy",
+      "question": "耶稣生在哪一座城？",
+      "options": {
+        "A": "拿撒勒",
+        "B": "伯利恒",
+        "C": "耶路撒冷",
+        "D": "迦百农"
+      },
+      "correct_answer": "B",
+      "book": "马太福音",
+      "chapter_verse": "2:1",
+      "explanation": "耶稣生在犹太的伯利恒（马太福音 2:1；路加福音 2:4-7），后来在拿撒勒长大。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-008",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "new_testament",
+      "difficulty": "easy",
+      "question": "耶稣从门徒中拣选了多少位使徒？",
+      "options": {
+        "A": "3 位",
+        "B": "7 位",
+        "C": "12 位",
+        "D": "40 位"
+      },
+      "correct_answer": "C",
+      "book": "路加福音",
+      "chapter_verse": "6:12-16",
+      "explanation": "耶稣整夜祷告后，从门徒中挑选了十二个人，称他们为使徒。",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "ZH-009",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "new_testament",
+      "difficulty": "intermediate",
+      "question": "扫罗（后来的保罗）在前往哪一座城的路上归主？",
+      "options": {
+        "A": "大马士革",
+        "B": "安提阿",
+        "C": "大数",
+        "D": "罗马"
+      },
+      "correct_answer": "A",
+      "book": "使徒行传",
+      "chapter_verse": "9:1-6",
+      "explanation": "扫罗要去大马士革捉拿信耶稣的人，快到的时候，忽然从天上发光四面照着他，复活的耶稣向他说话。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-010",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "new_testament",
+      "difficulty": "intermediate",
+      "question": "谁被选出来接替加略人犹大的使徒职分？",
+      "options": {
+        "A": "马提亚",
+        "B": "巴拿巴",
+        "C": "西拉",
+        "D": "提摩太"
+      },
+      "correct_answer": "A",
+      "book": "使徒行传",
+      "chapter_verse": "1:23-26",
+      "explanation": "门徒祷告后，在称呼巴撒巴的约瑟和马提亚二人中摇签，摇出马提亚来，他便和十一个使徒同列。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-011",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "new_testament",
+      "difficulty": "advanced",
+      "question": "约翰在哪一个海岛上看见启示录所记的异象？",
+      "options": {
+        "A": "塞浦路斯",
+        "B": "克里特",
+        "C": "拔摩",
+        "D": "马耳他"
+      },
+      "correct_answer": "C",
+      "book": "启示录",
+      "chapter_verse": "1:9",
+      "explanation": "约翰说他为神的道，并为给耶稣作的见证，曾在那名叫拔摩的海岛上。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-012",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "new_testament",
+      "difficulty": "advanced",
+      "question": "保罗把哪一位同工留在克里特，要他在各城设立长老？",
+      "options": {
+        "A": "提摩太",
+        "B": "提多",
+        "C": "西拉",
+        "D": "路加"
+      },
+      "correct_answer": "B",
+      "book": "提多书",
+      "chapter_verse": "1:4-5",
+      "explanation": "保罗写信给提多，说留他在克里特，是要他将那没有办完的事都办整齐，并照所吩咐的在各城设立长老。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-013",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "people",
+      "difficulty": "easy",
+      "question": "谁用机弦和石子打败了非利士巨人歌利亚？",
+      "options": {
+        "A": "扫罗",
+        "B": "约拿单",
+        "C": "大卫",
+        "D": "参孙"
+      },
+      "correct_answer": "C",
+      "book": "撒母耳记上",
+      "chapter_verse": "17:48-50",
+      "explanation": "年轻的牧童大卫用机弦甩石，打中非利士人的额，胜过了他。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-014",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "people",
+      "difficulty": "easy",
+      "question": "谁违背神的吩咐逃跑，后来被大鱼吞下？",
+      "options": {
+        "A": "约拿",
+        "B": "以利亚",
+        "C": "彼得",
+        "D": "但以理"
+      },
+      "correct_answer": "A",
+      "book": "约拿书",
+      "chapter_verse": "1:17",
+      "explanation": "约拿没有往尼尼微去，反倒逃往他施。他被抛在海中以后，耶和华安排一条大鱼吞了他，他在鱼腹中三日三夜。（希伯来文圣经将此节编为约拿书 2:1。）",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-015",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "people",
+      "difficulty": "intermediate",
+      "question": "摩西死后，谁带领以色列人？",
+      "options": {
+        "A": "亚伦",
+        "B": "迦勒",
+        "C": "约书亚",
+        "D": "基甸"
+      },
+      "correct_answer": "C",
+      "book": "约书亚记",
+      "chapter_verse": "1:1-2",
+      "explanation": "摩西死后，耶和华晓谕摩西的帮手、嫩的儿子约书亚，要他带领百姓过约旦河，进入那地。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-016",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "people",
+      "difficulty": "intermediate",
+      "question": "谁为法老解释七只肥母牛和七只瘦母牛的梦？",
+      "options": {
+        "A": "但以理",
+        "B": "约瑟",
+        "C": "摩西",
+        "D": "雅各"
+      },
+      "correct_answer": "B",
+      "book": "创世记",
+      "chapter_verse": "41:25-32",
+      "explanation": "约瑟解释说，这梦表示先有七个大丰年，随后有七个荒年。（但以理是为尼布甲尼撒王解梦，不是为法老。）",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-017",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "people",
+      "difficulty": "advanced",
+      "question": "谁向一位埃塞俄比亚官员讲解以赛亚书，随后为他施洗？",
+      "options": {
+        "A": "彼得",
+        "B": "腓利",
+        "C": "司提反",
+        "D": "保罗"
+      },
+      "correct_answer": "B",
+      "book": "使徒行传",
+      "chapter_verse": "8:26-38",
+      "explanation": "天使差腓利往加沙的旷野路上去。他遇见那位正在念以赛亚书的官员，向他传讲耶稣，随后给他施洗。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-018",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "people",
+      "difficulty": "advanced",
+      "question": "哪一位女先知当时作以色列的士师，并召巴拉去攻打西西拉？",
+      "options": {
+        "A": "底波拉",
+        "B": "雅亿",
+        "C": "米利暗",
+        "D": "户勒大"
+      },
+      "correct_answer": "A",
+      "book": "士师记",
+      "chapter_verse": "4:4-6",
+      "explanation": "女先知底波拉当时作以色列的士师，她打发人去召巴拉来。（后来杀死西西拉的是雅亿，见士师记 4:21。）",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-019",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "events_miracles",
+      "difficulty": "easy",
+      "question": "在迦拿的婚宴上，耶稣把水变成了什么？",
+      "options": {
+        "A": "酒",
+        "B": "奶",
+        "C": "油",
+        "D": "蜜"
+      },
+      "correct_answer": "A",
+      "book": "约翰福音",
+      "chapter_verse": "2:1-11",
+      "explanation": "约翰说这是耶稣所行的头一件神迹，显出他的荣耀来（约翰福音 2:11）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-020",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "events_miracles",
+      "difficulty": "easy",
+      "question": "以色列人出埃及时，神使哪一个海分开，让他们走干地过去？",
+      "options": {
+        "A": "红海",
+        "B": "死海（盐海）",
+        "C": "加利利海",
+        "D": "地中海"
+      },
+      "correct_answer": "A",
+      "book": "出埃及记",
+      "chapter_verse": "14:21-22",
+      "explanation": "摩西向海伸杖，耶和华使海水退去，以色列人在海中走干地。出埃及记 15:4 称这海为红海（希伯来文作 Yam Suph，有学者译为“芦苇海”）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-021",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "events_miracles",
+      "difficulty": "intermediate",
+      "question": "耶稣使五千人吃饱时，最初用的是什么食物？",
+      "options": {
+        "A": "五个饼和两条鱼",
+        "B": "七个饼和几条小鱼",
+        "C": "两个饼和五条鱼",
+        "D": "十二个饼和十二条鱼"
+      },
+      "correct_answer": "A",
+      "book": "约翰福音",
+      "chapter_verse": "6:9-13",
+      "explanation": "有一个孩童带着五个大麦饼和两条鱼；众人吃饱后，收拾剩下的零碎装满了十二个篮子。七个饼是另一次使四千人吃饱时所用的（马太福音 15:34）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-022",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "events_miracles",
+      "difficulty": "intermediate",
+      "question": "耶稣使哪一位在坟墓里已经四天的人复活？",
+      "options": {
+        "A": "拉撒路",
+        "B": "司提反",
+        "C": "撒该",
+        "D": "巴底买"
+      },
+      "correct_answer": "A",
+      "book": "约翰福音",
+      "chapter_verse": "11:17-44",
+      "explanation": "耶稣到了伯大尼，拉撒路在坟墓里已经四天了。耶稣大声呼叫他出来，那死人就出来了。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-023",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "events_miracles",
+      "difficulty": "advanced",
+      "question": "在迦密山上，以利亚向哪一个神明的先知挑战？",
+      "options": {
+        "A": "巴力",
+        "B": "大衮",
+        "C": "摩洛",
+        "D": "基抹"
+      },
+      "correct_answer": "A",
+      "book": "列王纪上",
+      "chapter_verse": "18:19-40",
+      "explanation": "以利亚向巴力的四百五十个先知挑战。他们求告巴力却没有回应，耶和华却降下火来，烧尽以利亚的燔祭。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-024",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "events_miracles",
+      "difficulty": "advanced",
+      "question": "以色列人在基遍争战时，约书亚吩咐什么停住？",
+      "options": {
+        "A": "日头",
+        "B": "约旦河",
+        "C": "城墙",
+        "D": "云彩"
+      },
+      "correct_answer": "A",
+      "book": "约书亚记",
+      "chapter_verse": "10:12-13",
+      "explanation": "约书亚向耶和华祷告，吩咐日头停在基遍，月亮止在亚雅仑谷；于是日头停留，直等国民向敌人报仇。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-025",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "parables",
+      "difficulty": "easy",
+      "question": "在好撒马利亚人的比喻中，谁停下来照顾那被强盗打伤的人？",
+      "options": {
+        "A": "祭司",
+        "B": "利未人",
+        "C": "撒马利亚人",
+        "D": "罗马兵丁"
+      },
+      "correct_answer": "C",
+      "book": "路加福音",
+      "chapter_verse": "10:30-37",
+      "explanation": "祭司和利未人都从那边过去了，唯有一个撒马利亚人动了慈心，包裹他的伤处，又带他到店里照应他。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-026",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "parables",
+      "difficulty": "easy",
+      "question": "在浪子的比喻中，小儿子把钱财耗尽后做了什么工作？",
+      "options": {
+        "A": "放猪",
+        "B": "打鱼",
+        "C": "盖房子",
+        "D": "收税"
+      },
+      "correct_answer": "A",
+      "book": "路加福音",
+      "chapter_verse": "15:13-16",
+      "explanation": "小儿子耗尽了家业，被打发到田里去放猪，饿得恨不得拿猪所吃的豆荚充饥。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-027",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "parables",
+      "difficulty": "intermediate",
+      "question": "在撒种的比喻中，落在土浅石头地上的种子结果怎样？",
+      "options": {
+        "A": "被飞鸟吃尽了",
+        "B": "发苗最快，但因没有根就枯干了",
+        "C": "被荆棘挤住了",
+        "D": "结实有百倍、六十倍、三十倍"
+      },
+      "correct_answer": "B",
+      "book": "马太福音",
+      "chapter_verse": "13:5-6",
+      "explanation": "耶稣后来解释说，这是指人听了道，当下欢喜领受，但遇见患难或逼迫就跌倒了（马太福音 13:20-21）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-028",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "parables",
+      "difficulty": "intermediate",
+      "question": "在失羊的比喻中，牧人撇下多少只羊去找那一只失去的羊？",
+      "options": {
+        "A": "9 只",
+        "B": "49 只",
+        "C": "99 只",
+        "D": "100 只"
+      },
+      "correct_answer": "C",
+      "book": "路加福音",
+      "chapter_verse": "15:3-7",
+      "explanation": "牧人撇下九十九只，去找那失去的一只，直到找着。耶稣说，一个罪人悔改，在天上也要这样为他欢喜。（另见马太福音 18:12-14。）",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "ZH-029",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "parables",
+      "difficulty": "advanced",
+      "question": "在十个童女的比喻中，有几个是聪明的，并且预备了油？",
+      "options": {
+        "A": "3 个",
+        "B": "5 个",
+        "C": "7 个",
+        "D": "10 个"
+      },
+      "correct_answer": "B",
+      "book": "马太福音",
+      "chapter_verse": "25:1-4",
+      "explanation": "其中五个是愚拙的，没有预备油；五个是聪明的，拿着灯，又预备油在器皿里。",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "ZH-030",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "parables",
+      "difficulty": "advanced",
+      "question": "在马太福音 25 章按才干受银子的比喻中，把主人的银子埋藏在地里的仆人领了多少？",
+      "options": {
+        "A": "一千",
+        "B": "二千",
+        "C": "五千",
+        "D": "一万"
+      },
+      "correct_answer": "A",
+      "book": "马太福音",
+      "chapter_verse": "25:14-18",
+      "explanation": "主人按各人的才干，一个给了五千银子，一个给了二千，一个给了一千。那领一千的去掘开地，把主人的银子埋藏了。",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "ZH-031",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "life_teachings",
+      "difficulty": "easy",
+      "question": "谁在约旦河为耶稣施洗？",
+      "options": {
+        "A": "彼得",
+        "B": "施洗的约翰",
+        "C": "安得烈",
+        "D": "雅各"
+      },
+      "correct_answer": "B",
+      "book": "马太福音",
+      "chapter_verse": "3:13-17",
+      "explanation": "约翰起初想要拦住，说自己当受耶稣的洗，但耶稣坚持。耶稣从水里上来，神的灵仿佛鸽子降下，又有声音从天上来。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-032",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "life_teachings",
+      "difficulty": "easy",
+      "question": "耶稣在哪一座城长大？",
+      "options": {
+        "A": "拿撒勒",
+        "B": "伯利恒",
+        "C": "耶利哥",
+        "D": "罗马"
+      },
+      "correct_answer": "A",
+      "book": "路加福音",
+      "chapter_verse": "2:39-40",
+      "explanation": "耶稣生在伯利恒，后来全家回到加利利的拿撒勒，孩子在那里渐渐长大（另见马太福音 2:23）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-033",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "life_teachings",
+      "difficulty": "intermediate",
+      "question": "耶稣说，律法中第一且最大的诫命是什么？",
+      "options": {
+        "A": "要尽心、尽性、尽意爱主你的神",
+        "B": "当守安息日为圣日",
+        "C": "不可杀人",
+        "D": "当孝敬父母"
+      },
+      "correct_answer": "A",
+      "book": "马太福音",
+      "chapter_verse": "22:36-38",
+      "explanation": "耶稣引用申命记 6:5 回答，又说其次也相仿，就是要爱人如己（马太福音 22:39）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-034",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "life_teachings",
+      "difficulty": "intermediate",
+      "question": "在登山宝训中，耶稣说门徒是世上的盐，也是世上的什么？",
+      "options": {
+        "A": "光",
+        "B": "盼望",
+        "C": "饼",
+        "D": "磐石"
+      },
+      "correct_answer": "A",
+      "book": "马太福音",
+      "chapter_verse": "5:13-14",
+      "explanation": "耶稣说门徒是世上的盐、世上的光，又吩咐他们的光要照在人前（马太福音 5:16）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-035",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "life_teachings",
+      "difficulty": "advanced",
+      "question": "耶稣登山变像时，哪两个人显现并与他说话？",
+      "options": {
+        "A": "摩西和以利亚",
+        "B": "亚伯拉罕和大卫",
+        "C": "以利亚和以利沙",
+        "D": "摩西和亚伦"
+      },
+      "correct_answer": "A",
+      "book": "马太福音",
+      "chapter_verse": "17:1-3",
+      "explanation": "耶稣带着彼得、雅各和约翰上了高山，在他们面前变了形像，有摩西、以利亚向他们显现，同耶稣说话。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-036",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "life_teachings",
+      "difficulty": "advanced",
+      "question": "哪一位法利赛人夜里来见耶稣，并听见耶稣说人必须重生？",
+      "options": {
+        "A": "尼哥底母",
+        "B": "迦玛列",
+        "C": "亚利马太的约瑟",
+        "D": "该亚法"
+      },
+      "correct_answer": "A",
+      "book": "约翰福音",
+      "chapter_verse": "3:1-7",
+      "explanation": "尼哥底母是法利赛人，是犹太人的官。后来他带着香料，和亚利马太的约瑟一同安葬耶稣（约翰福音 19:39）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-037",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "books",
+      "difficulty": "easy",
+      "question": "圣经的第一卷书是哪一卷？",
+      "options": {
+        "A": "出埃及记",
+        "B": "创世记",
+        "C": "马太福音",
+        "D": "诗篇"
+      },
+      "correct_answer": "B",
+      "book": "创世记",
+      "chapter_verse": "1:1",
+      "explanation": "创世记以创造的记载开始，是犹太教和基督教圣经的第一卷书。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-038",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "books",
+      "difficulty": "easy",
+      "question": "基督教圣经的最后一卷书是哪一卷？",
+      "options": {
+        "A": "启示录",
+        "B": "犹大书",
+        "C": "玛拉基书",
+        "D": "使徒行传"
+      },
+      "correct_answer": "A",
+      "book": "启示录",
+      "chapter_verse": "22:21",
+      "explanation": "启示录是新约，也是基督教圣经的最后一卷书。玛拉基书是新教旧约的最后一卷。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-039",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "books",
+      "difficulty": "intermediate",
+      "question": "圣经中哪一卷书的章数最多？",
+      "options": {
+        "A": "诗篇",
+        "B": "以赛亚书",
+        "C": "创世记",
+        "D": "耶利米书"
+      },
+      "correct_answer": "A",
+      "book": "诗篇",
+      "chapter_verse": "150",
+      "explanation": "诗篇共有 150 篇（章）。以赛亚书有 66 章，耶利米书 52 章，创世记 50 章。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-040",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "books",
+      "difficulty": "intermediate",
+      "question": "哪一卷新约书卷记载耶稣升天后福音从耶路撒冷传开的经过？",
+      "options": {
+        "A": "使徒行传",
+        "B": "罗马书",
+        "C": "希伯来书",
+        "D": "启示录"
+      },
+      "correct_answer": "A",
+      "book": "使徒行传",
+      "chapter_verse": "1:8-9",
+      "explanation": "使徒行传开头记载耶稣应许使徒要在耶路撒冷、犹太全地和撒马利亚，直到地极作他的见证，随后耶稣被接升天。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-041",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "books",
+      "difficulty": "advanced",
+      "question": "新约圣经共有多少卷书？",
+      "options": {
+        "A": "24 卷",
+        "B": "27 卷",
+        "C": "39 卷",
+        "D": "66 卷"
+      },
+      "correct_answer": "B",
+      "book": "马太福音 – 启示录",
+      "chapter_verse": "",
+      "explanation": "新约共有 27 卷，从马太福音到启示录。新教的旧约有 39 卷，合共 66 卷。",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "ZH-042",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "books",
+      "difficulty": "advanced",
+      "question": "伯沙撒王设摆筵席时，墙上出现文字的事记载在哪一卷书？",
+      "options": {
+        "A": "但以理书",
+        "B": "以西结书",
+        "C": "以斯帖记",
+        "D": "以斯拉记"
+      },
+      "correct_answer": "A",
+      "book": "但以理书",
+      "chapter_verse": "5:1-5",
+      "explanation": "伯沙撒王设摆筵席时，忽有人的指头显出，在墙上写字；后来但以理为王讲解这文字（但以理书 5:25-28）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-043",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "characters",
+      "difficulty": "easy",
+      "question": "耶稣的母亲是谁？",
+      "options": {
+        "A": "马利亚",
+        "B": "马大",
+        "C": "伊利莎白",
+        "D": "路得"
+      },
+      "correct_answer": "A",
+      "book": "路加福音",
+      "chapter_verse": "1:30-31",
+      "explanation": "天使加百列告诉马利亚，她要生一个儿子，给他起名叫耶稣。伊利莎白是马利亚的亲戚，是施洗约翰的母亲（路加福音 1:36、57-60）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-044",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "characters",
+      "difficulty": "easy",
+      "question": "耶稣呼召彼得时，彼得是做什么的？",
+      "options": {
+        "A": "打鱼的",
+        "B": "税吏",
+        "C": "制造帐棚的",
+        "D": "木匠"
+      },
+      "correct_answer": "A",
+      "book": "马太福音",
+      "chapter_verse": "4:18-20",
+      "explanation": "耶稣看见西门彼得和他兄弟安得烈在加利利海撒网，他们本是打鱼的，耶稣就呼召他们跟从他。（以制造帐棚为业的是保罗，见使徒行传 18:3。）",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-045",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "characters",
+      "difficulty": "intermediate",
+      "question": "路得的婆婆是谁？",
+      "options": {
+        "A": "拿俄米",
+        "B": "俄珥巴",
+        "C": "拉结",
+        "D": "利亚"
+      },
+      "correct_answer": "A",
+      "book": "路得记",
+      "chapter_verse": "1:3-4",
+      "explanation": "路得和俄珥巴嫁给了拿俄米的两个儿子。俄珥巴后来回到本国，路得却舍不得拿俄米（路得记 1:14-16）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-046",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "characters",
+      "difficulty": "intermediate",
+      "question": "在耶利哥爬上桑树要看耶稣的税吏叫什么名字？",
+      "options": {
+        "A": "马太",
+        "B": "撒该",
+        "C": "巴底买",
+        "D": "尼哥底母"
+      },
+      "correct_answer": "B",
+      "book": "路加福音",
+      "chapter_verse": "19:1-4",
+      "explanation": "撒该是税吏长，是个财主。因为他身量矮小，就爬上桑树要看耶稣；后来耶稣住在他家里（路加福音 19:5）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-047",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "characters",
+      "difficulty": "advanced",
+      "question": "施洗约翰的父亲是谁？",
+      "options": {
+        "A": "撒迦利亚",
+        "B": "约瑟",
+        "C": "西面",
+        "D": "西庇太"
+      },
+      "correct_answer": "A",
+      "book": "路加福音",
+      "chapter_verse": "1:5-13",
+      "explanation": "撒迦利亚是祭司。天使告诉他，他的妻子伊利莎白要给他生一个儿子，要给他起名叫约翰。（西庇太是使徒雅各和约翰的父亲。）",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-048",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "characters",
+      "difficulty": "advanced",
+      "question": "使徒保罗属于以色列的哪一个支派？",
+      "options": {
+        "A": "犹大",
+        "B": "便雅悯",
+        "C": "利未",
+        "D": "但"
+      },
+      "correct_answer": "B",
+      "book": "腓立比书",
+      "chapter_verse": "3:4-5",
+      "explanation": "保罗说自己是以色列族、便雅悯支派的人（腓立比书 3:5；罗马书 11:1）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-049",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "question": "神在第几日歇了他一切创造的工？",
+      "options": {
+        "A": "第一日",
+        "B": "第六日",
+        "C": "第七日",
+        "D": "第八日"
+      },
+      "correct_answer": "C",
+      "book": "创世记",
+      "chapter_verse": "2:2-3",
+      "explanation": "神造物的工已经完毕，就在第七日歇了他一切的工，并赐福给第七日，定为圣日。",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "ZH-050",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "question": "神把他所造的第一个人安置在哪一个园子里？",
+      "options": {
+        "A": "伊甸园",
+        "B": "客西马尼园",
+        "C": "歌珊",
+        "D": "迦南"
+      },
+      "correct_answer": "A",
+      "book": "创世记",
+      "chapter_verse": "2:8",
+      "explanation": "神在东方的伊甸立了一个园子，把所造的人安置在那里。客西马尼是耶稣被捕前祷告的地方（马太福音 26:36）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-051",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "general",
+      "difficulty": "intermediate",
+      "question": "神以什么作为记号，表明他不再用洪水毁灭一切有血肉的？",
+      "options": {
+        "A": "虹",
+        "B": "鸽子",
+        "C": "星",
+        "D": "火柱"
+      },
+      "correct_answer": "A",
+      "book": "创世记",
+      "chapter_verse": "9:12-15",
+      "explanation": "神把虹放在云彩中，作他与挪亚及一切活物立约的记号。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-052",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "general",
+      "difficulty": "intermediate",
+      "question": "神在旷野赐给以色列人什么食物，早晨出现在地面上？",
+      "options": {
+        "A": "吗哪",
+        "B": "蝗虫",
+        "C": "无花果",
+        "D": "大麦饼"
+      },
+      "correct_answer": "A",
+      "book": "出埃及记",
+      "chapter_verse": "16:13-31",
+      "explanation": "每天早晨露水上升以后，地面上有如白霜的小圆物；以色列家叫它吗哪，滋味如同搀蜜的薄饼（出埃及记 16:14、31）。神在晚上也赐下鹌鹑（16:13）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-053",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "general",
+      "difficulty": "advanced",
+      "question": "神在哪一座山上将两块法版交给摩西？",
+      "options": {
+        "A": "西奈山",
+        "B": "迦密山",
+        "C": "锡安山",
+        "D": "亚拉腊山"
+      },
+      "correct_answer": "A",
+      "book": "出埃及记",
+      "chapter_verse": "31:18",
+      "explanation": "耶和华在西奈山和摩西说完了话，就把两块法版交给他，是神用指头写的石版。申命记说立约的事是在何烈山（申命记 5:2）。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "ZH-054",
+      "language": "zh",
+      "translations": [
+        "CUVMPS"
+      ],
+      "category": "general",
+      "difficulty": "advanced",
+      "question": "根据马太福音，“以马内利”的意思是什么？",
+      "options": {
+        "A": "神与我们同在",
+        "B": "神拯救",
+        "C": "神是我的审判者",
+        "D": "神的恩赐"
+      },
+      "correct_answer": "A",
+      "book": "马太福音",
+      "chapter_verse": "1:22-23",
+      "explanation": "马太引用以赛亚书 7:14 关于一个儿子名叫以马内利的预言，并解释这名字翻出来就是“神与我们同在”。",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    }
+  ]
+}

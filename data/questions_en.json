@@ -1,0 +1,1356 @@
+{
+  "format_version": 1,
+  "note": "Original quiz questions. Explanations are paraphrases, not quotations from NIV, ESV or NLT. Add licensed quotations per translation in 'source_text', e.g. {\"ESV\": \"...\"}.",
+  "questions": [
+    {
+      "id": "EN-001",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "old_testament",
+      "difficulty": "easy",
+      "question": "According to Genesis, who built the ark?",
+      "options": {
+        "A": "Abraham",
+        "B": "Noah",
+        "C": "Moses",
+        "D": "David"
+      },
+      "correct_answer": "B",
+      "book": "Genesis",
+      "chapter_verse": "6:13-22",
+      "explanation": "God told Noah to build an ark to save his family and the animals from the flood, and Noah did everything God commanded.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-002",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "old_testament",
+      "difficulty": "easy",
+      "question": "What did God create on the first day of creation?",
+      "options": {
+        "A": "Light",
+        "B": "The sun, moon and stars",
+        "C": "Animals",
+        "D": "Human beings"
+      },
+      "correct_answer": "A",
+      "book": "Genesis",
+      "chapter_verse": "1:3-5",
+      "explanation": "On the first day God created light and separated it from the darkness, calling the light day and the darkness night. The sun, moon and stars are described on the fourth day (Genesis 1:14-19).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-003",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "old_testament",
+      "difficulty": "intermediate",
+      "question": "How many years did the Israelites wander in the wilderness before entering the Promised Land?",
+      "options": {
+        "A": "7",
+        "B": "12",
+        "C": "40",
+        "D": "70"
+      },
+      "correct_answer": "C",
+      "book": "Numbers",
+      "chapter_verse": "14:33-34",
+      "explanation": "Because the people refused to enter Canaan after the spies' report, God said they would wander in the wilderness for forty years, one year for each of the forty days the land was explored.",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "EN-004",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "old_testament",
+      "difficulty": "intermediate",
+      "question": "Which city's walls fell down after the Israelites marched around it for seven days?",
+      "options": {
+        "A": "Jericho",
+        "B": "Ai",
+        "C": "Jerusalem",
+        "D": "Babylon"
+      },
+      "correct_answer": "A",
+      "book": "Joshua",
+      "chapter_verse": "6:15-20",
+      "explanation": "On the seventh day the Israelites circled Jericho seven times; when the trumpets sounded and the people shouted, the wall collapsed.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-005",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "old_testament",
+      "difficulty": "advanced",
+      "question": "Which king of Judah was granted fifteen more years of life after he prayed during a serious illness?",
+      "options": {
+        "A": "Josiah",
+        "B": "Hezekiah",
+        "C": "Uzziah",
+        "D": "Manasseh"
+      },
+      "correct_answer": "B",
+      "book": "2 Kings",
+      "chapter_verse": "20:1-6",
+      "explanation": "When Hezekiah was ill and near death, he prayed, and God sent the prophet Isaiah to tell him that fifteen years would be added to his life. The account also appears in Isaiah 38.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-006",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "old_testament",
+      "difficulty": "advanced",
+      "question": "Which prophet was told by God to marry a woman named Gomer?",
+      "options": {
+        "A": "Amos",
+        "B": "Hosea",
+        "C": "Micah",
+        "D": "Joel"
+      },
+      "correct_answer": "B",
+      "book": "Hosea",
+      "chapter_verse": "1:2-3",
+      "explanation": "Hosea married Gomer, the daughter of Diblaim. The text says the marriage was a sign of the land's unfaithfulness in forsaking the LORD (Hosea 1:2).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-007",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "new_testament",
+      "difficulty": "easy",
+      "question": "In which town was Jesus born?",
+      "options": {
+        "A": "Nazareth",
+        "B": "Bethlehem",
+        "C": "Jerusalem",
+        "D": "Capernaum"
+      },
+      "correct_answer": "B",
+      "book": "Matthew",
+      "chapter_verse": "2:1",
+      "explanation": "Jesus was born in Bethlehem in Judea (Matthew 2:1; Luke 2:4-7), although he grew up in Nazareth.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-008",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "new_testament",
+      "difficulty": "easy",
+      "question": "How many apostles did Jesus choose from among his disciples?",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "12",
+        "D": "40"
+      },
+      "correct_answer": "C",
+      "book": "Luke",
+      "chapter_verse": "6:12-16",
+      "explanation": "After praying all night, Jesus chose twelve of his disciples and named them apostles.",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "EN-009",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "new_testament",
+      "difficulty": "intermediate",
+      "question": "Saul (later called Paul) was converted while travelling to which city?",
+      "options": {
+        "A": "Damascus",
+        "B": "Antioch",
+        "C": "Tarsus",
+        "D": "Rome"
+      },
+      "correct_answer": "A",
+      "book": "Acts",
+      "chapter_verse": "9:1-6",
+      "explanation": "As Saul approached Damascus to arrest followers of Jesus, a light from heaven flashed around him and the risen Jesus spoke to him.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-010",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "new_testament",
+      "difficulty": "intermediate",
+      "question": "Who was chosen to replace Judas Iscariot among the twelve apostles?",
+      "options": {
+        "A": "Matthias",
+        "B": "Barnabas",
+        "C": "Silas",
+        "D": "Timothy"
+      },
+      "correct_answer": "A",
+      "book": "Acts",
+      "chapter_verse": "1:23-26",
+      "explanation": "The disciples prayed and cast lots between Joseph called Barsabbas and Matthias; the lot fell to Matthias, and he was added to the eleven apostles.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-011",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "new_testament",
+      "difficulty": "advanced",
+      "question": "On which island was John when he received the visions recorded in Revelation?",
+      "options": {
+        "A": "Cyprus",
+        "B": "Crete",
+        "C": "Patmos",
+        "D": "Malta"
+      },
+      "correct_answer": "C",
+      "book": "Revelation",
+      "chapter_verse": "1:9",
+      "explanation": "John writes that he was on the island of Patmos because of the word of God and his testimony about Jesus.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-012",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "new_testament",
+      "difficulty": "advanced",
+      "question": "Paul left which co-worker in Crete to appoint elders in every town?",
+      "options": {
+        "A": "Timothy",
+        "B": "Titus",
+        "C": "Silas",
+        "D": "Luke"
+      },
+      "correct_answer": "B",
+      "book": "Titus",
+      "chapter_verse": "1:4-5",
+      "explanation": "Paul's letter to Titus says he left Titus in Crete to put in order what remained and to appoint elders in every town.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-013",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "people",
+      "difficulty": "easy",
+      "question": "Who defeated the Philistine giant Goliath with a sling and a stone?",
+      "options": {
+        "A": "Saul",
+        "B": "Jonathan",
+        "C": "David",
+        "D": "Samson"
+      },
+      "correct_answer": "C",
+      "book": "1 Samuel",
+      "chapter_verse": "17:48-50",
+      "explanation": "The young shepherd David struck the Philistine on the forehead with a stone from his sling and defeated him.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-014",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "people",
+      "difficulty": "easy",
+      "question": "Who was swallowed by a great fish after running away from God's command?",
+      "options": {
+        "A": "Jonah",
+        "B": "Elijah",
+        "C": "Peter",
+        "D": "Daniel"
+      },
+      "correct_answer": "A",
+      "book": "Jonah",
+      "chapter_verse": "1:17",
+      "explanation": "Jonah fled toward Tarshish instead of going to Nineveh. After he was thrown into the sea, the LORD provided a great fish to swallow him, and he was inside it three days and three nights. (In Hebrew Bibles this verse is numbered Jonah 2:1.)",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-015",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "people",
+      "difficulty": "intermediate",
+      "question": "Who led the Israelites after the death of Moses?",
+      "options": {
+        "A": "Aaron",
+        "B": "Caleb",
+        "C": "Joshua",
+        "D": "Gideon"
+      },
+      "correct_answer": "C",
+      "book": "Joshua",
+      "chapter_verse": "1:1-2",
+      "explanation": "After Moses died, the LORD told Joshua son of Nun, Moses' assistant, to lead the people across the Jordan into the land.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-016",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "people",
+      "difficulty": "intermediate",
+      "question": "Who interpreted Pharaoh's dreams about seven fat cows and seven thin cows?",
+      "options": {
+        "A": "Daniel",
+        "B": "Joseph",
+        "C": "Moses",
+        "D": "Jacob"
+      },
+      "correct_answer": "B",
+      "book": "Genesis",
+      "chapter_verse": "41:25-32",
+      "explanation": "Joseph explained that the dreams meant seven years of plenty followed by seven years of famine. (Daniel interpreted dreams for King Nebuchadnezzar, not for Pharaoh.)",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-017",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "people",
+      "difficulty": "advanced",
+      "question": "Who explained a passage from Isaiah to an Ethiopian official and then baptized him?",
+      "options": {
+        "A": "Peter",
+        "B": "Philip",
+        "C": "Stephen",
+        "D": "Paul"
+      },
+      "correct_answer": "B",
+      "book": "Acts",
+      "chapter_verse": "8:26-38",
+      "explanation": "An angel sent Philip to the desert road going down to Gaza. There he met the official reading Isaiah, told him the good news about Jesus, and baptized him.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-018",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "people",
+      "difficulty": "advanced",
+      "question": "Which prophetess was leading (judging) Israel when she summoned Barak to fight against Sisera?",
+      "options": {
+        "A": "Deborah",
+        "B": "Jael",
+        "C": "Miriam",
+        "D": "Huldah"
+      },
+      "correct_answer": "A",
+      "book": "Judges",
+      "chapter_verse": "4:4-6",
+      "explanation": "Deborah, a prophetess, was judging Israel at that time and sent for Barak. (Jael is the woman who later killed Sisera, Judges 4:21.)",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-019",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "events_miracles",
+      "difficulty": "easy",
+      "question": "At a wedding in Cana, Jesus turned water into what?",
+      "options": {
+        "A": "Wine",
+        "B": "Milk",
+        "C": "Oil",
+        "D": "Honey"
+      },
+      "correct_answer": "A",
+      "book": "John",
+      "chapter_verse": "2:1-11",
+      "explanation": "John calls this the first of the signs Jesus performed, through which he revealed his glory (John 2:11).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-020",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "events_miracles",
+      "difficulty": "easy",
+      "question": "Which sea did God divide so that the Israelites could cross on dry ground when leaving Egypt?",
+      "options": {
+        "A": "Red Sea",
+        "B": "Dead Sea",
+        "C": "Sea of Galilee",
+        "D": "Mediterranean Sea"
+      },
+      "correct_answer": "A",
+      "book": "Exodus",
+      "chapter_verse": "14:21-22",
+      "explanation": "Moses stretched out his hand and the LORD drove the sea back, so Israel walked through on dry ground. Exodus 15:4 names this sea the Red Sea (Hebrew Yam Suph, which some scholars render 'Sea of Reeds').",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-021",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "events_miracles",
+      "difficulty": "intermediate",
+      "question": "When Jesus fed the five thousand, what food did he start with?",
+      "options": {
+        "A": "Five loaves and two fish",
+        "B": "Seven loaves and a few small fish",
+        "C": "Two loaves and five fish",
+        "D": "Twelve loaves and twelve fish"
+      },
+      "correct_answer": "A",
+      "book": "John",
+      "chapter_verse": "6:9-13",
+      "explanation": "A boy had five barley loaves and two small fish; after everyone had eaten, twelve baskets of leftovers were collected. Seven loaves were used at the separate feeding of the four thousand (Matthew 15:34).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-022",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "events_miracles",
+      "difficulty": "intermediate",
+      "question": "Whom did Jesus raise from the dead after he had been in the tomb for four days?",
+      "options": {
+        "A": "Lazarus",
+        "B": "Stephen",
+        "C": "Zacchaeus",
+        "D": "Bartimaeus"
+      },
+      "correct_answer": "A",
+      "book": "John",
+      "chapter_verse": "11:17-44",
+      "explanation": "When Jesus arrived at Bethany, Lazarus had already been in the tomb four days. Jesus called him out, and he came out alive.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-023",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "events_miracles",
+      "difficulty": "advanced",
+      "question": "On Mount Carmel, Elijah challenged the prophets of which god?",
+      "options": {
+        "A": "Baal",
+        "B": "Dagon",
+        "C": "Molech",
+        "D": "Chemosh"
+      },
+      "correct_answer": "A",
+      "book": "1 Kings",
+      "chapter_verse": "18:19-40",
+      "explanation": "Elijah challenged 450 prophets of Baal. When they called on Baal there was no answer, but the LORD sent fire that consumed Elijah's sacrifice.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-024",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "events_miracles",
+      "difficulty": "advanced",
+      "question": "During Israel's battle at Gibeon, what did Joshua command to stand still?",
+      "options": {
+        "A": "The sun",
+        "B": "The Jordan River",
+        "C": "The city walls",
+        "D": "The clouds"
+      },
+      "correct_answer": "A",
+      "book": "Joshua",
+      "chapter_verse": "10:12-13",
+      "explanation": "Joshua spoke to the LORD and commanded the sun to stand still over Gibeon and the moon over the Valley of Aijalon; the sun stopped until the nation had defeated its enemies.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-025",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "parables",
+      "difficulty": "easy",
+      "question": "In the parable of the Good Samaritan, who stopped and took care of the man who had been attacked by robbers?",
+      "options": {
+        "A": "A priest",
+        "B": "A Levite",
+        "C": "A Samaritan",
+        "D": "A Roman soldier"
+      },
+      "correct_answer": "C",
+      "book": "Luke",
+      "chapter_verse": "10:30-37",
+      "explanation": "A priest and a Levite passed by on the other side, but a Samaritan took pity on the man, bandaged his wounds and paid for his care at an inn.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-026",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "parables",
+      "difficulty": "easy",
+      "question": "In the parable of the lost son, what work did the younger son do after he had spent all his money?",
+      "options": {
+        "A": "Feeding pigs",
+        "B": "Fishing",
+        "C": "Building houses",
+        "D": "Collecting taxes"
+      },
+      "correct_answer": "A",
+      "book": "Luke",
+      "chapter_verse": "15:13-16",
+      "explanation": "After wasting his inheritance, the younger son was sent into the fields to feed pigs, and he was so hungry he longed to eat the pigs' food.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-027",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "parables",
+      "difficulty": "intermediate",
+      "question": "In the parable of the sower, what happened to the seed that fell on rocky ground?",
+      "options": {
+        "A": "It was eaten by birds",
+        "B": "It sprang up quickly but withered because it had no root",
+        "C": "It was choked by thorns",
+        "D": "It produced a crop thirty, sixty or a hundred times"
+      },
+      "correct_answer": "B",
+      "book": "Matthew",
+      "chapter_verse": "13:5-6",
+      "explanation": "Jesus later explained that this pictures someone who receives the word with joy but falls away when trouble or persecution comes (Matthew 13:20-21).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-028",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "parables",
+      "difficulty": "intermediate",
+      "question": "In the parable of the lost sheep, how many sheep did the shepherd leave in order to search for the one that was lost?",
+      "options": {
+        "A": "9",
+        "B": "49",
+        "C": "99",
+        "D": "100"
+      },
+      "correct_answer": "C",
+      "book": "Luke",
+      "chapter_verse": "15:3-7",
+      "explanation": "The shepherd left the ninety-nine and searched for the one lost sheep until he found it. Jesus said there is joy in heaven over one sinner who repents. (See also Matthew 18:12-14.)",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "EN-029",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "parables",
+      "difficulty": "advanced",
+      "question": "In the parable of the ten virgins (bridesmaids), how many were wise and took extra oil?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "10"
+      },
+      "correct_answer": "B",
+      "book": "Matthew",
+      "chapter_verse": "25:1-4",
+      "explanation": "Five were foolish and took no extra oil; five were wise and took oil in jars with their lamps.",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "EN-030",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "parables",
+      "difficulty": "advanced",
+      "question": "In the parable of the talents in Matthew 25, how many talents had the servant who buried his master's money received?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Five",
+        "D": "Ten"
+      },
+      "correct_answer": "A",
+      "book": "Matthew",
+      "chapter_verse": "25:14-18",
+      "explanation": "The master gave five talents to one servant, two to another and one to a third. The servant who received one talent dug a hole and hid the money. (Some translations say 'bags of gold' or 'bags of silver' instead of 'talents'.)",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "EN-031",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "life_teachings",
+      "difficulty": "easy",
+      "question": "Who baptized Jesus in the Jordan River?",
+      "options": {
+        "A": "Peter",
+        "B": "John the Baptist",
+        "C": "Andrew",
+        "D": "James"
+      },
+      "correct_answer": "B",
+      "book": "Matthew",
+      "chapter_verse": "3:13-17",
+      "explanation": "John at first tried to stop Jesus, saying he needed to be baptized by Jesus, but Jesus insisted. As Jesus came up out of the water, the Spirit of God descended like a dove and a voice spoke from heaven.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-032",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "life_teachings",
+      "difficulty": "easy",
+      "question": "In which town did Jesus grow up?",
+      "options": {
+        "A": "Nazareth",
+        "B": "Bethlehem",
+        "C": "Jericho",
+        "D": "Rome"
+      },
+      "correct_answer": "A",
+      "book": "Luke",
+      "chapter_verse": "2:39-40",
+      "explanation": "After Jesus' birth in Bethlehem, his family returned to their own town of Nazareth in Galilee, where the child grew (see also Matthew 2:23).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-033",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "life_teachings",
+      "difficulty": "intermediate",
+      "question": "According to Jesus, what is the greatest and first commandment?",
+      "options": {
+        "A": "Love the Lord your God with all your heart, soul and mind",
+        "B": "Keep the Sabbath day holy",
+        "C": "Do not murder",
+        "D": "Honour your father and mother"
+      },
+      "correct_answer": "A",
+      "book": "Matthew",
+      "chapter_verse": "22:36-38",
+      "explanation": "Jesus answered from Deuteronomy 6:5 and added that the second commandment is like it: love your neighbour as yourself (Matthew 22:39).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-034",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "life_teachings",
+      "difficulty": "intermediate",
+      "question": "In the Sermon on the Mount, Jesus told his followers that they are the salt of the earth and the ____ of the world.",
+      "options": {
+        "A": "Light",
+        "B": "Hope",
+        "C": "Bread",
+        "D": "Rock"
+      },
+      "correct_answer": "A",
+      "book": "Matthew",
+      "chapter_verse": "5:13-14",
+      "explanation": "Jesus called his followers the salt of the earth and the light of the world, and told them to let their light shine before others (Matthew 5:16).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-035",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "life_teachings",
+      "difficulty": "advanced",
+      "question": "At Jesus' transfiguration, which two people appeared and talked with him?",
+      "options": {
+        "A": "Moses and Elijah",
+        "B": "Abraham and David",
+        "C": "Elijah and Elisha",
+        "D": "Moses and Aaron"
+      },
+      "correct_answer": "A",
+      "book": "Matthew",
+      "chapter_verse": "17:1-3",
+      "explanation": "On a high mountain, with Peter, James and John watching, Jesus was transfigured and Moses and Elijah appeared, talking with him.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-036",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "life_teachings",
+      "difficulty": "advanced",
+      "question": "Which Pharisee came to Jesus at night and was told that he must be born again (born from above)?",
+      "options": {
+        "A": "Nicodemus",
+        "B": "Gamaliel",
+        "C": "Joseph of Arimathea",
+        "D": "Caiaphas"
+      },
+      "correct_answer": "A",
+      "book": "John",
+      "chapter_verse": "3:1-7",
+      "explanation": "Nicodemus was a Pharisee and a ruler of the Jews. He later brought spices to help Joseph of Arimathea bury Jesus (John 19:39).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-037",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "books",
+      "difficulty": "easy",
+      "question": "What is the first book of the Bible?",
+      "options": {
+        "A": "Exodus",
+        "B": "Genesis",
+        "C": "Matthew",
+        "D": "Psalms"
+      },
+      "correct_answer": "B",
+      "book": "Genesis",
+      "chapter_verse": "1:1",
+      "explanation": "Genesis opens with the account of creation and is the first book in both Jewish and Christian Bibles.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-038",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "books",
+      "difficulty": "easy",
+      "question": "What is the last book of the Christian Bible?",
+      "options": {
+        "A": "Revelation",
+        "B": "Jude",
+        "C": "Malachi",
+        "D": "Acts"
+      },
+      "correct_answer": "A",
+      "book": "Revelation",
+      "chapter_verse": "22:21",
+      "explanation": "Revelation is the last book of the New Testament and of the Christian Bible. Malachi is the last book of the Old Testament in Protestant Bibles.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-039",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "books",
+      "difficulty": "intermediate",
+      "question": "Which book of the Bible has the most chapters?",
+      "options": {
+        "A": "Psalms",
+        "B": "Isaiah",
+        "C": "Genesis",
+        "D": "Jeremiah"
+      },
+      "correct_answer": "A",
+      "book": "Psalms",
+      "chapter_verse": "150",
+      "explanation": "Psalms contains 150 psalms (chapters). Isaiah has 66 chapters, Jeremiah 52 and Genesis 50.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-040",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "books",
+      "difficulty": "intermediate",
+      "question": "Which New Testament book tells how the gospel spread from Jerusalem after Jesus' ascension?",
+      "options": {
+        "A": "Acts",
+        "B": "Romans",
+        "C": "Hebrews",
+        "D": "Revelation"
+      },
+      "correct_answer": "A",
+      "book": "Acts",
+      "chapter_verse": "1:8-9",
+      "explanation": "Acts begins with Jesus' promise that the apostles would be his witnesses in Jerusalem, Judea, Samaria and to the ends of the earth, followed by his ascension.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-041",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "books",
+      "difficulty": "advanced",
+      "question": "How many books are in the New Testament?",
+      "options": {
+        "A": "24",
+        "B": "27",
+        "C": "39",
+        "D": "66"
+      },
+      "correct_answer": "B",
+      "book": "Matthew – Revelation",
+      "chapter_verse": "",
+      "explanation": "The New Testament has 27 books, from Matthew to Revelation. The Protestant Old Testament has 39 books, making 66 in total.",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "EN-042",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "books",
+      "difficulty": "advanced",
+      "question": "In which book is the account of the handwriting on the wall at King Belshazzar's feast?",
+      "options": {
+        "A": "Daniel",
+        "B": "Ezekiel",
+        "C": "Esther",
+        "D": "Ezra"
+      },
+      "correct_answer": "A",
+      "book": "Daniel",
+      "chapter_verse": "5:1-5",
+      "explanation": "During Belshazzar's feast, the fingers of a human hand appeared and wrote on the wall; Daniel later interpreted the writing (Daniel 5:25-28).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-043",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "characters",
+      "difficulty": "easy",
+      "question": "Who was the mother of Jesus?",
+      "options": {
+        "A": "Mary",
+        "B": "Martha",
+        "C": "Elizabeth",
+        "D": "Ruth"
+      },
+      "correct_answer": "A",
+      "book": "Luke",
+      "chapter_verse": "1:30-31",
+      "explanation": "The angel Gabriel told Mary that she would give birth to a son and name him Jesus. Elizabeth was Mary's relative and the mother of John the Baptist (Luke 1:36, 57-60).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-044",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "characters",
+      "difficulty": "easy",
+      "question": "What was Peter's occupation when Jesus called him?",
+      "options": {
+        "A": "Fisherman",
+        "B": "Tax collector",
+        "C": "Tentmaker",
+        "D": "Carpenter"
+      },
+      "correct_answer": "A",
+      "book": "Matthew",
+      "chapter_verse": "4:18-20",
+      "explanation": "Jesus saw Simon Peter and his brother Andrew casting a net into the Sea of Galilee, for they were fishermen, and called them to follow him. (Paul was the tentmaker, Acts 18:3.)",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-045",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "characters",
+      "difficulty": "intermediate",
+      "question": "Who was Ruth's mother-in-law?",
+      "options": {
+        "A": "Naomi",
+        "B": "Orpah",
+        "C": "Rachel",
+        "D": "Leah"
+      },
+      "correct_answer": "A",
+      "book": "Ruth",
+      "chapter_verse": "1:3-4",
+      "explanation": "Ruth and Orpah married Naomi's two sons. Orpah, Ruth's sister-in-law, returned to her people, but Ruth stayed with Naomi (Ruth 1:14-16).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-046",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "characters",
+      "difficulty": "intermediate",
+      "question": "What was the name of the tax collector in Jericho who climbed a tree to see Jesus?",
+      "options": {
+        "A": "Matthew",
+        "B": "Zacchaeus",
+        "C": "Bartimaeus",
+        "D": "Nicodemus"
+      },
+      "correct_answer": "B",
+      "book": "Luke",
+      "chapter_verse": "19:1-4",
+      "explanation": "Zacchaeus was a rich chief tax collector. Because he was short, he climbed a tree to see Jesus, and Jesus then stayed at his house (Luke 19:5).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-047",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "characters",
+      "difficulty": "advanced",
+      "question": "Who was the father of John the Baptist?",
+      "options": {
+        "A": "Zechariah",
+        "B": "Joseph",
+        "C": "Simeon",
+        "D": "Zebedee"
+      },
+      "correct_answer": "A",
+      "book": "Luke",
+      "chapter_verse": "1:5-13",
+      "explanation": "Zechariah was a priest. The angel Gabriel told him that his wife Elizabeth would bear a son, to be named John. (Zebedee was the father of the apostles James and John.)",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-048",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "characters",
+      "difficulty": "advanced",
+      "question": "From which tribe of Israel was the apostle Paul?",
+      "options": {
+        "A": "Judah",
+        "B": "Benjamin",
+        "C": "Levi",
+        "D": "Dan"
+      },
+      "correct_answer": "B",
+      "book": "Philippians",
+      "chapter_verse": "3:4-5",
+      "explanation": "Paul describes himself as an Israelite of the tribe of Benjamin (Philippians 3:5; Romans 11:1).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-049",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "question": "On which day did God rest from all his work of creation?",
+      "options": {
+        "A": "The first day",
+        "B": "The sixth day",
+        "C": "The seventh day",
+        "D": "The eighth day"
+      },
+      "correct_answer": "C",
+      "book": "Genesis",
+      "chapter_verse": "2:2-3",
+      "explanation": "God finished his work and rested on the seventh day, and he blessed the seventh day and made it holy.",
+      "source_text": {},
+      "shuffle_options": false,
+      "verified": true
+    },
+    {
+      "id": "EN-050",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "general",
+      "difficulty": "easy",
+      "question": "What was the name of the garden where God put the first man?",
+      "options": {
+        "A": "Eden",
+        "B": "Gethsemane",
+        "C": "Goshen",
+        "D": "Canaan"
+      },
+      "correct_answer": "A",
+      "book": "Genesis",
+      "chapter_verse": "2:8",
+      "explanation": "God planted a garden in Eden, in the east, and put there the man he had formed. Gethsemane is the place where Jesus prayed before his arrest (Matthew 26:36).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-051",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "general",
+      "difficulty": "intermediate",
+      "question": "What sign did God give as a reminder of his promise never again to destroy all life with a flood?",
+      "options": {
+        "A": "A rainbow",
+        "B": "A dove",
+        "C": "A star",
+        "D": "A pillar of fire"
+      },
+      "correct_answer": "A",
+      "book": "Genesis",
+      "chapter_verse": "9:12-15",
+      "explanation": "God set his bow in the clouds as the sign of his covenant with Noah and every living creature.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-052",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "general",
+      "difficulty": "intermediate",
+      "question": "What food did God provide for the Israelites in the wilderness, which appeared on the ground in the morning?",
+      "options": {
+        "A": "Manna",
+        "B": "Locusts",
+        "C": "Figs",
+        "D": "Barley bread"
+      },
+      "correct_answer": "A",
+      "book": "Exodus",
+      "chapter_verse": "16:13-31",
+      "explanation": "Each morning, after the dew was gone, thin flakes lay on the ground. The Israelites called it manna, and it tasted like wafers made with honey (Exodus 16:14, 31). God also sent quail in the evening (16:13).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-053",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "general",
+      "difficulty": "advanced",
+      "question": "On which mountain did God give Moses the two stone tablets?",
+      "options": {
+        "A": "Mount Sinai",
+        "B": "Mount Carmel",
+        "C": "Mount Zion",
+        "D": "Mount Ararat"
+      },
+      "correct_answer": "A",
+      "book": "Exodus",
+      "chapter_verse": "31:18",
+      "explanation": "When the LORD finished speaking with Moses on Mount Sinai, he gave him the two tablets of stone written by the finger of God. Deuteronomy refers to the giving of the covenant as happening at Horeb (Deuteronomy 5:2).",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    },
+    {
+      "id": "EN-054",
+      "language": "en",
+      "translations": [
+        "NIV",
+        "ESV",
+        "NLT"
+      ],
+      "category": "general",
+      "difficulty": "advanced",
+      "question": "According to Matthew's Gospel, what does the name 'Immanuel' mean?",
+      "options": {
+        "A": "God with us",
+        "B": "God saves",
+        "C": "God is my judge",
+        "D": "Gift of God"
+      },
+      "correct_answer": "A",
+      "book": "Matthew",
+      "chapter_verse": "1:22-23",
+      "explanation": "Matthew quotes the prophecy of Isaiah 7:14 about a son called Immanuel and explains that the name means 'God with us'.",
+      "source_text": {},
+      "shuffle_options": true,
+      "verified": true
+    }
+  ]
+}
